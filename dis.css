@@ -1,0 +1,533 @@
+#p {
+    text-align: right;/* Texto alineado a la derecha */
+}
+
+.vertical-menu {
+  width: 150px;/* Ancho */ 
+}
+
+.vertical-menu a {
+  background-color: #eee; /* Color de fondo */
+  color: black; /* Color */
+  display: block; /* Muestra un elemento como un elemento de bloque */
+  padding: 12px; /* Genera un espacio alrededor del elemento */
+  text-decoration: none; /* Decoracion del texto = ninguna */
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc; /* Color de fondo */
+}
+
+.vertical-menu a.active {
+  background-color: #4CAF50; /* Color de fondo */
+  color: white;/* Color */
+}
+
+#cuerpomer {/* variable nombre */
+margin: 20px;/* Margen */
+padding: 20px;/* Genera un espacio alrededor del elemento */
+border-width: 20px;/* Gruesor del borde */
+text-align: justify;/* Texto justificado */
+border-bottom-left-radius: 30px; /*Borde de abajo izquierda redondeado*/
+border-bottom-right-radius: 30px;/* Borde de bajo derecha redondeado */
+border-top-left-radius: 30px;/* Borde de ariba izquierda redondeado */
+border-top-right-radius: 30px;/* Borde de ariba derecha redondeado */
+height: 30%;/* Altura */
+width: 70%;/* Ancho */
+background-color: #F6DDCC;/**/
+}
+
+/* El codigo que aqui para abajo se repite solo que cambia la variable del nombre */
+
+#cuerpofram {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpoman {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerponar {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpofer {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpotam {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpogua {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpocer {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpopin {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpoflan {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpogel {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpocho {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpolim {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpoque {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpoindex {
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color:  #FCF3CF;
+}
+
+#cuerpogelcho {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color:  #F6DDCC;
+}
+
+#cuerpopolv {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpopast {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerponaring {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpoframing {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpomaning {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpofering {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpomering {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpotaming {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpoguaing {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpocering {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpopining {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpoflaning {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpogeling {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpochoing {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpoliming {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpoqueing {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpobebnut {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpobebcook {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpobebrom {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpobebcaj {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+border-top-left-radius: 30px;
+border-top-right-radius: 30px;
+height: 30%;
+width: 70%;
+background-color: #F6DDCC;
+}
+
+#cuerpomanualing {
+margin: 20px;
+padding: 20px;
+border-width: 20px;
+text-align: justify;
+}

@@ -1,0 +1,24 @@
+#p {
+    text-align: right;/* Texto alineado a la derecha */
+}
+
+.vertical-menu {
+  width: 200px/* Ancho */ 
+}
+
+.vertical-menu a {
+  background-color: #eee; /* Color de fondo */
+  color: black; /* Color */
+  display: block; /* Muestra un elemento como un elemento de bloque */
+  padding: 12px; /* Genera un espacio alrededor del elemento */
+  text-decoration: none; /* Decoracion del texto = ninguna */
+}
+
+.vertical-menu a:hover {
+  background-color: #ccc; /* Color de fondo */
+}
+
+.vertical-menu a.active {
+  background-color: #4CAF50; /* Color de fondo */
+  color: white;/* Color */
+}
